@@ -1,0 +1,2 @@
+# JavaScript
+starting someoone new
